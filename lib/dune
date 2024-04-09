@@ -1,0 +1,3 @@
+(library
+ (name code_editor_but_in_ocaml)
+ (libraries labltk))

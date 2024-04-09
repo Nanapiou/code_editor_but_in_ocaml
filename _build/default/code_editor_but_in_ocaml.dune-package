@@ -1,0 +1,4 @@
+(lang dune 3.13)
+(name code_editor_but_in_ocaml)
+(sections (lib .) (bin ../../bin))
+(files (lib (META dune-package opam)) (bin (code_editor_but_in_ocaml)))
