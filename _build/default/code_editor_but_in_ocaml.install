@@ -1,8 +1,0 @@
-lib: [
-  "_build/install/default/lib/code_editor_but_in_ocaml/META"
-  "_build/install/default/lib/code_editor_but_in_ocaml/dune-package"
-  "_build/install/default/lib/code_editor_but_in_ocaml/opam"
-]
-bin: [
-  "_build/install/default/bin/code_editor_but_in_ocaml"
-]
