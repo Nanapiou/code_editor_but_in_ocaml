@@ -7,3 +7,4 @@ Liens:
 - https://plzoo.andrej.com/
 - https://gitlab.inria.fr/fpottier/inferno
 - https://github.com/andrejbauer/plzoo
+- https://www.youtube.com/watch?v=E3BjV-Y6jlk
