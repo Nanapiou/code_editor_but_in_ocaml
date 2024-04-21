@@ -2,6 +2,6 @@
  (public_name code_editor_but_in_ocaml)
  (name main)
  (libraries code_editor_but_in_ocaml labltk)
- (flags (:standard -w -A))
+ (flags (:standard -warn-error -32..39))
 )
 
