@@ -3,8 +3,9 @@
 *Switching to french, beacause french.*
 
 Liens:
-- https://github.com/tomprimozic/type-systems?tab=readme-ov-file
-- https://gitlab.inria.fr/fpottier/inferno
-- https://github.com/andrejbauer/plzoo
-- https://www.youtube.com/watch?v=E3BjV-Y6jlk
-- https://www.youtube.com/watch?v=Y8RE8VcQdFU
+- https://github.com/tomprimozic/type-systems?tab=readme-ov-file Différentes implémentations d'algorithmes d'inférence de type
+- https://gitlab.inria.fr/fpottier/inferno Une implémentation de l'algorithme de Hindley-Milner
+- https://github.com/andrejbauer/plzoo Différents petits langages implémentés (dont inférence de types)
+- https://www.youtube.com/watch?v=Y8RE8VcQdFU Implémentation d'une exécution de lambda calcul (sans inférence de type)
+- https://www.youtube.com/watch?v=E3BjV-Y6jlk Implémentation de l'inférence de type de la vidéo ci-dessus
+- https://github.com/dakk/lambda Une librairie OCaml implémentant le lambda calcul dans sa grande majorité

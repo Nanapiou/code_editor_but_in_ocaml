@@ -11,7 +11,7 @@ type value =
   | VClosure of { context: value Context.t; param: string; body: expr }
   | VNative of (value -> value)
 
-exception Type_error of string
+exception Type_error
 
 let rec interp context e =
   match e with
@@ -23,7 +23,7 @@ let rec interp context e =
     match interp context funct with
     | VNative f -> f argument
     | VClosure {context; param; body} -> interp (Context.add param argument context) body
-    | _ -> raise (Type_error "Not a function")
+    | _ -> raise Type_error
 
 let initial_context =
   Context.empty |>
@@ -35,7 +35,7 @@ let initial_context =
       VNative (fun b ->
         match a, b with
         | VInt a, VInt b -> VInt (a + b)
-        | _ -> raise (Type_error "Can only add two integers")
+        | _ -> raise Type_error
       )
     )
   ) |>
@@ -43,7 +43,7 @@ let initial_context =
     VNative (fun v ->
       match v with
       | VInt n -> Printf.printf "%d\n" n; v
-      | _ -> raise (Type_error "Can print an integer")
+      | _ -> raise Type_error
     )
   )
 
