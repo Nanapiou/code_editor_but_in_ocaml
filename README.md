@@ -10,3 +10,5 @@ Liens:
 - https://www.youtube.com/watch?v=E3BjV-Y6jlk Implémentation de l'inférence de type de la vidéo ci-dessus
 - https://www.youtube.com/watch?v=3fWkF8aBOMk Polymorphisme ajouté à l'implémentation ci-dessus (non vue)
 - https://github.com/dakk/lambda Une librairie OCaml implémentant le lambda calcul dans sa grande majorité
+- https://www.editions-ellipses.fr/accueil/6352-compilation-analyse-lexicale-et-syntaxique-du-texte-a-sa-structure-en-informatique-9782340003668.html livre de compilation
+- https://www.editions-ellipses.fr/index.php?controller=attachment&id_attachment=37774  sommaire du livre de compilation
