@@ -8,4 +8,5 @@ Liens:
 - https://github.com/andrejbauer/plzoo Différents petits langages implémentés (dont inférence de types)
 - https://www.youtube.com/watch?v=Y8RE8VcQdFU Implémentation d'une exécution de lambda calcul (sans inférence de type)
 - https://www.youtube.com/watch?v=E3BjV-Y6jlk Implémentation de l'inférence de type de la vidéo ci-dessus
+- https://www.youtube.com/watch?v=3fWkF8aBOMk Polymorphisme ajouté à l'implémentation ci-dessus (non vue)
 - https://github.com/dakk/lambda Une librairie OCaml implémentant le lambda calcul dans sa grande majorité

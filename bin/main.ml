@@ -87,3 +87,5 @@ let infinite_prog = Application {
 }
 
 let () = infinite_prog |> to_string |> print_endline
+let () = prog |> to_string |> print_endline
+let _ = interp initial_context prog
