@@ -12,3 +12,4 @@ Liens:
 - https://github.com/dakk/lambda Une librairie OCaml implémentant le lambda calcul dans sa grande majorité
 - https://www.editions-ellipses.fr/accueil/6352-compilation-analyse-lexicale-et-syntaxique-du-texte-a-sa-structure-en-informatique-9782340003668.html livre de compilation
 - https://www.editions-ellipses.fr/index.php?controller=attachment&id_attachment=37774  sommaire du livre de compilation
+- [A Short Introduction to Systems F and Fω](./documents/f-fw.pdf), une introduction au système F, permettant d'utiliser le λ2 (lié au polymorphisme et aux langages ml, cf [wikipedia](https://en.wikipedia.org/wiki/Lambda_cube#(%CE%BB2)_System_F))
