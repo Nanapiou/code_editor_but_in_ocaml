@@ -12,3 +12,4 @@ Liens:
 - https://github.com/dakk/lambda Une librairie OCaml implémentant le lambda calcul dans sa grande majorité
 - https://www.editions-ellipses.fr/accueil/6352-compilation-analyse-lexicale-et-syntaxique-du-texte-a-sa-structure-en-informatique-9782340003668.html livre de compilation
 - https://www.editions-ellipses.fr/index.php?controller=attachment&id_attachment=37774  sommaire du livre de compilation
+- https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3Deis11j_iGMs&ved=2ahUKEwiUlaH_oo2GAxUZT6QEHSl2DaAQtwJ6BAgUEAI&usg=AOvVaw3eSilo1kbqgPbljPOemJG6 bool en lambda calcul
