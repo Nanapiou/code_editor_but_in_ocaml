@@ -15,3 +15,23 @@ Liens:
 - [A Short Introduction to Systems F and Fω](./documents/f-fw.pdf), une introduction au système F, permettant d'utiliser le λ2 (lié au polymorphisme et aux langages ml, cf [wikipedia](https://en.wikipedia.org/wiki/Lambda_cube#(%CE%BB2)_System_F))
 - [EXTENSION OF ML TYPE SYSTEM WITH A SORTED EQUATIONAL THEORY ON TYPES](./documents/eq-theory-on-types.pdf)
 - https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3Deis11j_iGMs&ved=2ahUKEwiUlaH_oo2GAxUZT6QEHSl2DaAQtwJ6BAgUEAI&usg=AOvVaw3eSilo1kbqgPbljPOemJG6 bool en lambda calcul
+$x: \sigma \in \Gamma  $
+
+### Règles de dérivation
+
+| $x: \sigma \in \Gamma  $ |
+| ---------------------- |
+| $\Gamma \vdash x: \sigma $|
+
+
+| $c\text{ est une constante de type} T$ |
+| ---------------------- |
+|   $   \;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\Gamma \vdash c: T $|
+
+| $\;\;\;\;\;\;x: \Gamma ,x: \sigma \vdash e: \tau $ |
+| ---------------------- |
+| $\Gamma \vdash (\lambda x: \sigma \rightarrow \tau):( \sigma \rightarrow  \tau )$ |
+
+|  $\;\; \Gamma \vdash e_1: \sigma \rightarrow  \tau \;\;\; \Gamma \vdash e_2: \sigma $  |
+| ---------------------- |
+| $\;\;\;\;\;\;\;\;\;\;\;\;\;\;\Gamma \vdash e_1 e_2: \sigma $|
