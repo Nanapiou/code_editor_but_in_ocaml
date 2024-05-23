@@ -26,12 +26,12 @@ $x: \sigma \in \Gamma  $
 
 | $c\text{ est une constante de type} T$ |
 | ---------------------- |
-|   $   \Gamma \vdash c: T $|
+|   $\Gamma \vdash c: T $|
 
 | $x: \Gamma ,x: \sigma \vdash e: \tau $ |
 | ---------------------- |
 | $\Gamma \vdash (\lambda x: \sigma \rightarrow \tau):( \sigma \rightarrow  \tau )$ |
 
-|  $ \Gamma \vdash e_1: \sigma \rightarrow  \tau \;\;\; \Gamma \vdash e_2: \sigma $  |
+|  $\Gamma \vdash e_1: \sigma \rightarrow  \tau \;\;\; \Gamma \vdash e_2: \sigma $  |
 | ---------------------- |
 | $\Gamma \vdash e_1 e_2: \sigma $|
