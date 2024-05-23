@@ -32,6 +32,6 @@ $x: \sigma \in \Gamma  $
 | ---------------------- |
 | $\Gamma \vdash (\lambda x: \sigma \rightarrow \tau):( \sigma \rightarrow  \tau )$ |
 
-|  $\Gamma \vdash e_1: \sigma \rightarrow  \tau \;\;\; \Gamma \vdash e_2: \sigma $  |
+|  $\Gamma \vdash e_1: \sigma \rightarrow  \tau \Gamma \vdash e_2: \sigma $  |
 | ---------------------- |
 | $\Gamma \vdash e_1 e_2: \sigma $|
