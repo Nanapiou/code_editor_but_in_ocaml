@@ -15,6 +15,7 @@ Liens:
 - [A Short Introduction to Systems F and Fω](./documents/f-fw.pdf), une introduction au système F, permettant d'utiliser le λ2 (lié au polymorphisme et aux langages ml, cf [wikipedia](https://en.wikipedia.org/wiki/Lambda_cube#(%CE%BB2)_System_F))
 - [EXTENSION OF ML TYPE SYSTEM WITH A SORTED EQUATIONAL THEORY ON TYPES](./documents/eq-theory-on-types.pdf)
 - https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3Deis11j_iGMs&ved=2ahUKEwiUlaH_oo2GAxUZT6QEHSl2DaAQtwJ6BAgUEAI&usg=AOvVaw3eSilo1kbqgPbljPOemJG6 bool en lambda calcul
+- [Interpreters in OCaml](https://cs3110.github.io/textbook/chapters/interp/intro.html), création d'AST et interpréteurs en OCaml
 $x: \sigma \in \Gamma  $
 
 ### Règles de dérivation
