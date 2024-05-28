@@ -16,6 +16,8 @@ Liens:
 - [EXTENSION OF ML TYPE SYSTEM WITH A SORTED EQUATIONAL THEORY ON TYPES](./documents/eq-theory-on-types.pdf)
 - https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3Deis11j_iGMs&ved=2ahUKEwiUlaH_oo2GAxUZT6QEHSl2DaAQtwJ6BAgUEAI&usg=AOvVaw3eSilo1kbqgPbljPOemJG6 bool en lambda calcul
 - [Interpreters in OCaml](https://cs3110.github.io/textbook/chapters/interp/intro.html), création d'AST et interpréteurs en OCaml
+- https://www.youtube.com/watch?v=dycsRSOQjho ocaml parser
+- https://www.youtube.com/watch?v=NjKJ9-ejR6o ocaml interpreter
   
 $x: \sigma \in \Gamma  $
 
