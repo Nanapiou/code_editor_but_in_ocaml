@@ -19,7 +19,7 @@ Liens:
 - [CS 4110 (Fall 2012)](https://www.cs.cornell.edu/courses/cs4110/2012fa/index.php) *(palu)* *mais y'a un [deuxième lien](https://www.cs.cornell.edu/courses/cs4110/2020fa/) si jamais curiosité*
 - https://www.youtube.com/watch?v=dycsRSOQjho ocaml parser *(pavu)*
 - https://www.youtube.com/watch?v=NjKJ9-ejR6o ocaml interpreter *(pavu)*
-  
+- https://nuage07.apps.education.fr/index.php/s/6SRKjEDptzzpFgE lien drive rendu hebdomadaire
 $x: \sigma \in \Gamma  $
 
 ### Règles de dérivation
